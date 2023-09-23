@@ -1,5 +1,5 @@
 {
-  "homepage": "http://Lecon-a.github.io/my_getlinked_solution",
+  "homepage": "https://github.com/Lecon-a/my_getlinked_solution/",
   "name": "my-getlinked",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "dev": "vite",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
